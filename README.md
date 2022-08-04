@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoycelynLongdon
-- 👀 I’m interested in centering indigenous knowledge in climate/ML research
+- 👀 I’m interested in centering local ecological knoweldge, biacoustics and tropical forest conservation
 - 🌱 I’m currently learning ML on the AI4ER programme @ Cambridge University
 - 📫 How to reach me jl2182@cam.ac.uk
 
